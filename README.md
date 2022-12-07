@@ -13,5 +13,4 @@ This is meant to be used as a template of sorts for further building.
 Enjoy!
 
 Your friend,
-
 Nick.
