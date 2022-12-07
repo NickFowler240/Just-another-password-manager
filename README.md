@@ -1,4 +1,4 @@
-# Just-another-password-manager
+Your-average-password-manager
 Welcome to the home for my CYB220 Programming Final!
 
 This is a "fairly" secure password manager that I made and hopefully patched all the holes in.
